@@ -2,7 +2,7 @@
 
 Create database
 
-py manage.py migrate
+<code>py manage.py migrate</code>
 
 create superuser
 

@@ -6,4 +6,4 @@ Create database
 
 create superuser
 
-python manage.py createsuperuser
+<code>python manage.py createsuperuser</code>

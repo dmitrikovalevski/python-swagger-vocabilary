@@ -17,3 +17,6 @@ for windows:
 create superuser
 for windows:
 <code>python manage.py createsuperuser</code>
+
+Run server
+<code>python manage.py runserver</code>
